@@ -1,0 +1,132 @@
+
+.header {height: 10%;
+	margin: 0px  !important;
+	width:100%;
+	color: white;
+	font-size: 30px;
+    position:fixed;
+    background-color: #fff;
+    line-height: 2.22;
+    top: 0;
+}
+
+body {
+	margin-top:0px !important;
+  font-family: roboto;
+  margin: 0;
+	}
+.content {padding:20px;}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+}
+li {
+  float: left;
+}
+
+li a {
+	font-size:16px;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  
+    color: #16acce;
+}
+.navbar{
+	float: left;
+	width:313px;
+    margin-left: 1000px;
+    font-size: 13px
+   
+
+}
+.piclogo{
+	float:left;
+	margin-left: 66px;
+}
+.iconhed img{
+	
+		 padding-left: 8px;
+		float: left;
+}
+.iconhed{
+
+	padding-top:14px;
+	float:right;
+	margin-right: 300px;
+}
+.section1{
+	margin-left:10px;
+	clear: both;
+	padding:1px;
+    height: 576px;
+	background-image: url(../picture/background.jpg);
+	background-size: cover;
+}
+
+.BGtext{
+ 	
+ 	margin-left: 256px;
+    margin-top: 128px;	
+    padding-top: 20px;
+    font-size: 38px;
+    line-height: 20px!important;
+    font-weight: 700!important;
+}
+.tp{
+ margin: 30px 266px 53px
+}
+
+.Logo2{
+	font-size: 20px;
+	color: #0078aa;
+}
+.Logo3{
+    margin-top: 22px;
+
+}
+.contenar{
+    background-color: #b9f7f9 !important;
+	width:400px;
+	height:300px;
+	padding: 40px;
+	float: left;
+	border-radius: 15px;
+}
+
+#ddv{
+	margin-left: 237px;
+}
+
+.contenar2{
+	border-radius: 15px;
+	margin-top: -25px;
+    background-color: #d4fdfe !important;
+	width:400px;
+	height:325px;
+	padding: 40px;
+	float: left;
+}
+.fixnavbar{
+	border-radius: 15px;
+	overflow: hidden;
+    background-color: #FFF;
+    position: fixed;
+    width:76px;
+    float: left;
+    margin-left: 96%;
+    text-align: center;
+    top: 100px;
+}
+		
+
+
